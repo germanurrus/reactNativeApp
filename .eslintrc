@@ -15,7 +15,7 @@
       1, { "extensions": [".js", ".jsx"] }
     ],
     "react/prefer-stateless-function": [
-      2, { "ignorePureComponents": true }
+      0, { "ignorePureComponents": true }
     ],
     "react/forbid-prop-types": [0, { "forbid": [] }],
     "import/extensions": [1, "never", { "svg": "always" }],
