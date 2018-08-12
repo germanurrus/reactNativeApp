@@ -1,7 +1,7 @@
+import React from 'react';
 import { createStackNavigator } from 'react-navigation';
 import Feed from '../components/Feed';
 import ItemDetail from '../components/ItemDetail';
-
 
 const AppNavigator = createStackNavigator({
   Feed: { screen: Feed },
@@ -9,5 +9,6 @@ const AppNavigator = createStackNavigator({
 }, {
   initialRouteName: 'Feed',
 });
+
 
 export default AppNavigator;

@@ -1,5 +1,6 @@
 {
-  "name": "lanochedelosmuseos",
+  "name": "reactNativeApp",
+  "displayName": "reactNativeApp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
